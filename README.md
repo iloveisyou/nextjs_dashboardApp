@@ -127,6 +127,8 @@ next.config.ts: 설정파일, 'npm i' 명령어 사용할때 (새프로젝ㅈ트
 ### step6. 데이터베이스 설정
 - 데이터베이스 설정 및 배포: GitHub https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
 - Vercel: https://vercel.com/signup
+- bash: npm i -g vercel / vercel login / vercel link (연결및생성) / vercel --prod (배포)
+
 
 
 
